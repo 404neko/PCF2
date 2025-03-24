@@ -1,3 +1,11 @@
+http://union.bokecc.com/playvideo.bo?uid=198610D610BE6FCA&playertype=1&autoStart=false&vid=517F97796A3B84D7
+http://union.bokecc.com/playvideo.bo?&playertype=1&autoStart=false&vid=E5C04EF2B3D0C9509C33DC5901307461
+
+cc_js_Player.showPlayerView({"path":"","status":1,"vid":"517F97796A3B84D7","uid":"213562","divid":"cc_video_517F97796A3B84D7_2068812"});
+
+cc_js_Player.showPlayerView({"path":"","status":1,"vid":"E5C04EF2B3D0C9509C33DC5901307461","uid":"215893","divid":"cc_video_E5C04EF2B3D0C9509C33DC5901307461_4920601"});
+
 http://d421.play.bokecc.com/flvs/C19E12B3564FE2AD/2013-08-01/BPdJNbdCLZJ-aNcFbNBbF--bcFBMNN-CHMIMOD-MF.pcf?t=1377540195&key=3B8D6BA6AAE600712798B1F2649AB5B7
 http://d421.play.bokecc.com/flvs/C19E12B3564FE2AD/2013-03-24/LPCJdIIBbZMHICICMBGNOD-MF.pcf?t=1377528275&key=65FE0C1AFF18CF7EA5C312E9B61362C3&upid=8940221377521075711&pt=0&pi=1
 http://d421.play.bokecc.com/flvs/C19E12B3564FE2AD/2013-03-24/LPCJdIIBbZMHICICMBGNOD-MF.pcf?t=1377528275&key=65FE0C1AFF18CF7EA5C312E9B61362C3&upid=8940221377521075711&pt=0&pi=1
+
